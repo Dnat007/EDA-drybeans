@@ -1,1 +1,3 @@
 # EDA-drybeans
+Explanation of exploratory data analysis...
+- Only the anaysis part of eda dry beans is done over here
